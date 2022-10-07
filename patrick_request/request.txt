@@ -1,0 +1,8 @@
+https://castr.io/api here is the api docs youll need to know what fields etc are required
+
+https://docs.google.com/spreadsheets/d/1JwWWQUIepp_-mfYwyfXRuLRDtQh-Q0SvSbd3nfS43J8/edit?usp=sharing
+
+https://rtmp-server.com/blog/ there are plenty of examples on how other comapanies handl rtmp admin panels
+
+https://www.red5server.com/live-stream-rtmp/
+
