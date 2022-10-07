@@ -29,7 +29,7 @@ const OverviewTab = () => {
 
                                 <ul className="ps-4 vstack gap-2">
                                     <li>Product Design, Figma (Software), Prototype</li>
-                                    <li>Four Dashboards : Ecommerce, Analytics, Project,etc.</li>
+                                    <li>Four Dashboard : Ecommerce, Analytics, Project,etc.</li>
                                     <li>Create calendar, chat and email app pages.</li>
                                     <li>Add authentication pages.</li>
                                     <li>Content listing.</li>

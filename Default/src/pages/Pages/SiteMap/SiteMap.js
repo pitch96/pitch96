@@ -295,7 +295,7 @@ const SiteMap = () => {
                                                         <div className="first-list">
                                                             <div className="list-wrap">
                                                                 <Link to="#" className="fw-medium text-primary"><i
-                                                                        className="ri-airplay-line me-1 align-bottom"></i> Dashboards</Link>
+                                                                        className="ri-airplay-line me-1 align-bottom"></i> Dashboard</Link>
                                                             </div>
                                                             <ul className="second-list list-unstyled">
                                                                 <li>

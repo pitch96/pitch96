@@ -24,7 +24,7 @@ const Summary = () => {
                                 <div className="form-check">
                                     <Input className="form-check-input" type="checkbox" defaultValue="" id="dashboardTask" defaultChecked />
                                     <Label className="form-check-label" htmlFor="dashboardTask">
-                                        Dashboards : Ecommerce, Analytics, Project,etc.
+                                        Dashboard : Ecommerce, Analytics, Project,etc.
                                     </Label>
                                 </div>
                             </li>

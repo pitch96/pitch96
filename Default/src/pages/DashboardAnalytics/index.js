@@ -19,7 +19,7 @@ document.title="Analytics | Velzon - React Admin & Dashboard Template";
         <React.Fragment>
             <div className="page-content">
                 <Container fluid>
-                    <BreadCrumb title="Analytics" pageTitle="Dashboards" />
+                    <BreadCrumb title="Analytics" pageTitle="Dashboard" />
                     <Row>
                         <Col xxl={5}>
                             <UpgradeAccountNotise />

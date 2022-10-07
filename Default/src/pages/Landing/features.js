@@ -33,7 +33,7 @@ const Features = () => {
                                     <Col className="col-3">
                                         <div className="text-center">
                                             <h4>5</h4>
-                                            <p>Dashboards</p>
+                                            <p>Dashboard</p>
                                         </div>
                                     </Col>
                                     <Col className="col-3">
@@ -80,8 +80,8 @@ const Features = () => {
                         <Col lg={6} className="order-2 order-lg-1">
                             <div className="text-muted">
                                 <h5 className="fs-12 text-uppercase text-success">Design</h5>
-                                <h4 className="mb-3">Well Designed Dashboards</h4>
-                                <p className="mb-4 ff-secondary">Quality Dashboards (QD) is a condition-specific, actionable web-based application for quality reporting and population
+                                <h4 className="mb-3">Well Designed Dashboard</h4>
+                                <p className="mb-4 ff-secondary">Quality Dashboard (QD) is a condition-specific, actionable web-based application for quality reporting and population
                                     management that is integrated into the Electronic Health Record (EHR).</p>
 
                                 <Row>

@@ -16,7 +16,7 @@ const DashboardProject = () => {
         <React.Fragment>
             <div className="page-content">
                 <Container fluid>
-                    <BreadCrumb title="Projects" pageTitle="Dashboards" />
+                    <BreadCrumb title="Projects" pageTitle="Dashboard" />
                     <Row className="project-wrapper">
                         <Col xxl={8}>
                             <Widgets />

@@ -18,7 +18,7 @@ const DashboardCrypto = () => {
         <React.Fragment>
             <div className="page-content">
                 <Container fluid>
-                    <BreadCrumb title="Crypto" pageTitle="Dashboards" />
+                    <BreadCrumb title="Crypto" pageTitle="Dashboard" />
                     <Row>
                         <MyPortfolio />
                         <Col className="order-xxl-0 order-first">

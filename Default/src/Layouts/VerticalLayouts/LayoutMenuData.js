@@ -131,7 +131,7 @@ const Navdata = () => {
         },
         {
             id: "dashboard",
-            label: "Dashboards",
+            label: "Dashboard",
             icon: "ri-dashboard-2-line",
             link: "/#",
             stateVariables: isDashboard,
