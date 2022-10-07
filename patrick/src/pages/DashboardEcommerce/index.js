@@ -18,31 +18,31 @@ const DashboardEcommerce = () => {
     <React.Fragment>
       <div className="page-content">
         <Container fluid>
-          <BreadCrumb title="Dashboard" pageTitle="Dashboards" />
+          <BreadCrumb title="Chenel Contents" pageTitle="Dashboards" />
           <Row>
             <Col>
               <div className="h-100">
-                <Section />
+                {/* <Section /> */}
                 <Row>
-                  <Widget />
+                  {/* <Widget /> */}
                 </Row>
                 <Row>
                   <Col xl={8}>
-                    <Revenue />
+                    {/* <Revenue /> */}
                   </Col>
-                  <SalesByLocations />
+                  {/* <SalesByLocations /> */}
                 </Row>
                 <Row>
-                  <BestSellingProducts />
-                  <TopSellers />
+                  {/* <BestSellingProducts /> */}
+                  {/* <TopSellers /> */}
                 </Row>
                 <Row>
-                  <StoreVisits />
-                  <RecentOrders />
+                  {/* <StoreVisits />
+                  <RecentOrders /> */}
                 </Row>
               </div>
             </Col>
-            <RecentActivity />
+            {/* <RecentActivity /> */}
           </Row>
         </Container>
       </div>

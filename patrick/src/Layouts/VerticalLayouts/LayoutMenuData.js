@@ -610,11 +610,11 @@ const Navdata = () => {
         {
             id: "Dashboard",
             label: "Dashboard",
-            icon: "ri-honour-line",
-            link: "/widgets",
+            icon: "ri-home-4-line",
+            link: "/Dashboard",
             click: function (e) {
                 e.preventDefault();
-                setIscurrentState('Widgets');
+                setIscurrentState('Dashboard');
             }
         },
         // {
