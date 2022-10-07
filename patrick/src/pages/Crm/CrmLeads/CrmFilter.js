@@ -350,14 +350,14 @@ const CrmFilter = ({ show, onCloseClick }) => {
         <div className="offcanvas-footer border-top p-3 text-center hstack gap-2">
           <button
             className="btn btn-light w-100"
-            toggle={onCloseClick}
+            // toggle={onCloseClick}
           >
             Clear Filter
           </button>
           <button
             type="submit"
             className="btn btn-success w-100"
-            toggle={onCloseClick}
+            // toggle={onCloseClick}
           >
             Filters
           </button>
