@@ -10,10 +10,15 @@ import SalesByLocations from "./SalesByLocations";
 import Section from "./Section";
 import StoreVisits from "./StoreVisits";
 import TopSellers from "./TopSellers";
+import Button_section from "./Button_section";
+import Section_table from "./Section_table";
+import Section_t from "./Section_table";
+import CheckBoxTable from "./CheckBoxtable";
+
 
 
 const DashboardEcommerce = () => {
-  document.title ="Dashboard | Velzon - React Admin & Dashboard Template";
+  document.title = "Dashboard | Velzon - React Admin & Dashboard Template";
   return (
     <React.Fragment>
       <div className="page-content">
@@ -23,7 +28,9 @@ const DashboardEcommerce = () => {
             <Col>
               <div className="h-100">
                 {/* <Section /> */}
+                <Button_section />
                 <Row>
+                  {/* <Section_t /> */}
                   {/* <Widget /> */}
                 </Row>
                 <Row>
@@ -37,13 +44,15 @@ const DashboardEcommerce = () => {
                   {/* <TopSellers /> */}
                 </Row>
                 <Row>
-                  {/* <StoreVisits />
-                  <RecentOrders /> */}
+                  {/* <StoreVisits /> */}
+                  {/* <RecentOrders /> */}
                 </Row>
               </div>
             </Col>
+
             {/* <RecentActivity /> */}
           </Row>
+          <CheckBoxTable/>
         </Container>
       </div>
     </React.Fragment>

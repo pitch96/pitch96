@@ -644,24 +644,24 @@ const Navdata = () => {
         //         { id: "formlayouts", label: "Form Layouts", link: "/forms-layouts", parentId: "forms" },
         //     ],
         // },
-        // {
-        //     id: "tables",
-        //     label: "Tables",
-        //     icon: "ri-layout-grid-line",
-        //     link: "/#",
-        //     click: function (e) {
-        //         e.preventDefault();
-        //         setIsTables(!isTables);
-        //         setIscurrentState('Tables');
-        //         updateIconSidebar(e);
-        //     },
-        //     stateVariables: isTables,
-        //     subItems: [
-        //         { id: "basictables", label: "Basic Tables", link: "/tables-basic", parentId: "tables" },
-        //         { id: "gridjs", label: "Grid Js", link: "/tables-gridjs", parentId: "tables" },
-        //         { id: "listjs", label: "List Js", link: "/tables-listjs", parentId: "tables" },
-        //     ],
-        // },
+        {
+            id: "tables",
+            label: "Tables",
+            icon: "ri-layout-grid-line",
+            link: "/#",
+            click: function (e) {
+                e.preventDefault();
+                setIsTables(!isTables);
+                setIscurrentState('Tables');
+                updateIconSidebar(e);   
+            },
+            stateVariables: isTables,
+            subItems: [
+                { id: "basictables", label: "Basic Tables", link: "/tables-basic", parentId: "tables" },
+                { id: "gridjs", label: "Grid Js", link: "/tables-gridjs", parentId: "tables" },
+                { id: "listjs", label: "List Js", link: "/tables-listjs", parentId: "tables" },
+            ],
+        },
         // {
         //     id: "charts",
         //     label: "Charts",
@@ -709,26 +709,26 @@ const Navdata = () => {
 
         //     ],
         // },
-        // {
-        //     id: "icons",
-        //     label: "Icons",
-        //     icon: "ri-compasses-2-line",
-        //     link: "/#",
-        //     click: function (e) {
-        //         e.preventDefault();
-        //         setIsIcons(!isIcons);
-        //         setIscurrentState('Icons');
-        //         updateIconSidebar(e);
-        //     },
-        //     stateVariables: isIcons,
-        //     subItems: [
-        //         { id: "remix", label: "Remix", link: "/icons-remix", parentId: "icons" },
-        //         { id: "boxicons", label: "Boxicons", link: "/icons-boxicons", parentId: "icons" },
-        //         { id: "materialdesign", label: "Material Design", link: "/icons-materialdesign", parentId: "icons" },
-        //         { id: "lineawesome", label: "Line Awesome", link: "/icons-lineawesome", parentId: "icons" },
-        //         { id: "feather", label: "Feather", link: "/icons-feather", parentId: "icons" },
-        //     ],
-        // },
+        {
+            id: "icons",
+            label: "Icons",
+            icon: "ri-compasses-2-line",
+            link: "/#",
+            click: function (e) {
+                e.preventDefault();
+                setIsIcons(!isIcons);
+                setIscurrentState('Icons');
+                updateIconSidebar(e);
+            },
+            stateVariables: isIcons,
+            subItems: [
+                { id: "remix", label: "Remix", link: "/icons-remix", parentId: "icons" },
+                { id: "boxicons", label: "Boxicons", link: "/icons-boxicons", parentId: "icons" },
+                { id: "materialdesign", label: "Material Design", link: "/icons-materialdesign", parentId: "icons" },
+                { id: "lineawesome", label: "Line Awesome", link: "/icons-lineawesome", parentId: "icons" },
+                { id: "feather", label: "Feather", link: "/icons-feather", parentId: "icons" },
+            ],
+        },
         // {
         //     id: "maps",
         //     label: "Maps",
