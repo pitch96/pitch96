@@ -1,25 +1,9 @@
 import React from 'react'
 import { Card, CardBody, Col, Input, Label, Row, Table } from 'reactstrap';
 import PreviewCardHeader from '../../../src/Components/Common/PreviewCardHeader';
-import { Link } from 'react-router-dom';        
-import {DefaultTables,
-        StrippedRow,
-        TablesColors,
-        HoverableRows,
-        CardTables,
-        ActiveTables,
-        BorderedTables,
-        TablesBorderColors,
-        TablesWithoutBorders,
-        SmallTables,
-        TableHead,
-        TableFoot,
-        Captions,
-        TableNesting,
-        Variants,
-        VerticalAlignment,
-        ResponsiveTables
-    } from '../../../src/pages/Tables/BasicTables/BasicTablesCode';
+import { Link } from 'react-router-dom';
+import { CardTables } from '../../../src/pages/Tables/BasicTables/BasicTablesCode';
+import { BaseExample } from '../../../src/pages/Tables/GridTables/GridTablesData';
 const CheckBoxTable = () => {
     return (
         <Row>
@@ -27,7 +11,7 @@ const CheckBoxTable = () => {
                 <Card>
                     <PreviewCardHeader title="Card Tables" />
                     <CardBody>
-                        <p className="text-muted mb-4">Use <code>table-card</code> class to show card-based table within a &lt;tbody&gt;.</p>
+                        {/* <p className="text-muted mb-4">Use <code>table-card</code> class to show card-based table within a &lt;tbody&gt;.</p> */}
                         <div className="live-preview">
                             <div className="table-responsive table-card">
                                 <Table className="align-middle table-nowrap mb-0">
@@ -123,6 +107,9 @@ const CheckBoxTable = () => {
                                 </code>
                             </pre>
                         </div>
+                        {/* <div id="table-gridjs">
+                           
+                        </div> */}
                     </CardBody>
                 </Card>
             </Col>
