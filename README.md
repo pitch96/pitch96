@@ -34,7 +34,7 @@ Thanks for checking my profile.
   -Google Cloud (GCP—formerly Google Cloud Platform)
   -Heroku
   
-4.Streming
+4.Streaming
 
  -Live Video/Audio Streaming : HLS, MPEG-DASH, RTMP, RTSP, Smooth Streaming
  
