@@ -15,7 +15,7 @@ Will learn new technologies quickly and take part in new challenges asap.
 Looking forward hearing from you about new job opportunity.
 Thanks for checking my profile.
 
-1.Frontend and Backend Development
+1. Frontend and Backend Development
 
   -HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
  
@@ -23,18 +23,18 @@ Thanks for checking my profile.
  
   -Codeigniter, Laravel, Express, Nest.js, Django
  
-2.Database
+2. Database
 
   -Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
  
-3.Cloud Service Support
+3. Cloud Service Support
 
   -Amazon Web Services (AWS)
   -Microsoft Azure
   -Google Cloud (GCP—formerly Google Cloud Platform)
   -Heroku
   
-4.Streming
+4. Streming
 
  -Live Video/Audio Streaming : HLS, MPEG-DASH, RTMP, RTSP, Smooth Streaming
  
@@ -46,7 +46,7 @@ Thanks for checking my profile.
  
  -On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3,
 
-5.Machine Learning
+5. Machine Learning
 
  -Object classification, detection, tracking, counting with deep learning.
  
@@ -58,7 +58,7 @@ Thanks for checking my profile.
  
  -Data Visualisation ( Matplotlib, Seaborn)
  
-6.Blockchain Development
+6. Blockchain Development
    
  -Ethereum, Solana, Polygon...
  -Solidity, Rust, C++, Web 3, Remix, Truffle
