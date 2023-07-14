@@ -42,7 +42,8 @@ Thanks for checking my profile.
  -Clustering Related Problems ( KMeans, DBSCAN, HDBSCAN, Hierarchical Clustering)
  -Data Analysis (Pandas, Numpy, Others)
  -Data Visualisation ( Matplotlib, Seaborn)
-6. Blockchain Development
+ 
+ 6. Blockchain Development
  -Ethereum, Solana, Polygon...
  -Solidity, Rust, C++, Web 3, Remix, Truffle
  -Creating fungible/non-fungible tokens with Standards (ERC20, ERC721, ERC1155, BEP20...), Crypto currency development
