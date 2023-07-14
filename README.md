@@ -16,36 +16,50 @@ Looking forward hearing from you about new job opportunity.
 Thanks for checking my profile.
 
 1.Frontend and Backend Development
- -HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
+
+  -HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
  
- -React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
+  -React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
  
- -Codeigniter, Laravel, Express, Nest.js, Django
+  -Codeigniter, Laravel, Express, Nest.js, Django
  
 2.Database
- -Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
+
+  -Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
  
 3.Cloud Service Support
- -Amazon Web Services (AWS)
- -Microsoft Azure
- -Google Cloud (GCP—formerly Google Cloud Platform)
- -Heroku
- 
-4. Video Streaming
+
+  -Amazon Web Services (AWS)
+  -Microsoft Azure
+  -Google Cloud (GCP—formerly Google Cloud Platform)
+  -Heroku
+  
+4.Streming
+
  -Live Video/Audio Streaming : HLS, MPEG-DASH, RTMP, RTSP, Smooth Streaming
+ 
  -Live Streaming with Wowza, AWS Elemental MediaLive, Azure Media Service, Red5, Pexip, Encoding.com, Castr.io, Bunny.net
+ 
  -Video conferencing with WebRTC : MediaSoup, OWT,Ant Medis Server, Open-EasyRTC, openVidu, Janus, OvenMediaEngine
+ 
  -Audio/Video Streaming Server or Client/Player Development
+ 
  -On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3,
 
 5.Machine Learning
+
  -Object classification, detection, tracking, counting with deep learning.
+ 
  -Human characteristics recognition(like age, gender, emotion and clothes etc)
+ 
  -Clustering Related Problems ( KMeans, DBSCAN, HDBSCAN, Hierarchical Clustering)
+ 
  -Data Analysis (Pandas, Numpy, Others)
+ 
  -Data Visualisation ( Matplotlib, Seaborn)
  
- 6. Blockchain Development
+6.Blockchain Development
+   
  -Ethereum, Solana, Polygon...
  -Solidity, Rust, C++, Web 3, Remix, Truffle
  -Creating fungible/non-fungible tokens with Standards (ERC20, ERC721, ERC1155, BEP20...), Crypto currency development
